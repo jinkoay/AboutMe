@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">jin koay</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi! My name is Jin.\n\n
+
+        I’m currently a Computer Science student entering my senior year at UCF. I am passionate about promoting diversity in tech and have helped coordinate various events to support women in computing through her role as an officer at ACM-W. Other than ACM-W, I have also been actively involved on campus as a teaching assistant for Computer Science 1, and is currently involved in undergraduate research on the analysis of highly-configurable systems.\n\n
+
+        I aspire to pursue a career in Computer Science. In the past, I have interned at Intel as an Application Developer Intern last summer and am joining Deloitte as a Solution Summer Scholar this June. In my free time, I enjoys watching baking videos and learning Japanese!\n</string>
+    <string name="what_is_your_nickname">what is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
